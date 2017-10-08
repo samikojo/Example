@@ -1,0 +1,5 @@
+Repo Example/Library/
+Repo Example/Temp/
+*.csproj
+*.sln
+*.ide
